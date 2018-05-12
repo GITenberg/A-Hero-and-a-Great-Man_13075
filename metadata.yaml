@@ -1,0 +1,25 @@
+_repo: A-Hero-and-a-Great-Man_13075
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 13075-h/images/cover_bo.jpg
+creator:
+  author:
+    agent_name: Kruckvich, Francis
+    gutenberg_agent_id: '4818'
+    url: http://www.gutenberg.org/2009/agents/4818
+description: ''
+gutenberg_issued: '2004-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13075'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Stories in rhyme'
+- !lcc 'PS'
+- !lcsh 'Poetry'
+title: A Hero and a Great Man
+url: http://www.gutenberg.org/ebooks/13075
